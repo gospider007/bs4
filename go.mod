@@ -15,7 +15,7 @@ require (
 	github.com/andybalholm/cascadia v1.3.5 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/klauspost/compress v1.20.3 // indirect
-	github.com/minio/minlz v1.2.2 // indirect
+	github.com/minio/minlz v1.2.3 // indirect
 	golang.org/x/image v0.47.0 // indirect
 	golang.org/x/text v0.43.0 // indirect
 )
